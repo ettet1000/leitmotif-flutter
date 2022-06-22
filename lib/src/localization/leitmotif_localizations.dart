@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:leitmotif/leitmotif.dart';
-import 'languages/leitmotif_localizations_ko.dart'
+import 'languages/leitmotif_localizations_ko.dart';
 
 /// A Leitmotif `localization` class enabling localized values on dialog and
 /// screen widgets.
