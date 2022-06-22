@@ -34,6 +34,8 @@ class LeitmotifLocalizations {
     LeitmotifLocalizationsEN.languageCode: LeitmotifLocalizationsEN.values,
     // 'German' localization
     LeitmotifLocalizationsDE.languageCode: LeitmotifLocalizationsDE.values,
+    // 'German' localization
+    LeitmotifLocalizationsKO.languageCode: LeitmotifLocalizationsKO.values,
   };
 
   /// Returns the currently implemented languages inside the localization map
@@ -49,6 +51,8 @@ class LeitmotifLocalizations {
     Locale(LeitmotifLocalizationsEN.languageCode),
     // German (no contry code)
     Locale(LeitmotifLocalizationsDE.languageCode),
+    // German (no contry code)
+    Locale(LeitmotifLocalizationsKO.languageCode),
   ];
 
   /// Returns the localized value based on the provided [localizationKey].
