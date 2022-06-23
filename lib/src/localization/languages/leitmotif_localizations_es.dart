@@ -55,7 +55,7 @@ class LeitmotifLocalizationsES {
     LeitmotifLocalizationsKeys.onboardingLabel:                               'inducción',
     LeitmotifLocalizationsKeys.dismissLabel:                               'Disparar',
     LeitmotifLocalizationsKeys.signUpLabel:                               'Inscribirse',
-    LeitmotifLocalizationsKeys.privacyPolicyLabel:                               'Política de privacidad';
+    LeitmotifLocalizationsKeys.privacyPolicyLabel:                               'Política de privacidad',
     LeitmotifLocalizationsKeys.privacyLabel:                               'reclusión',
     LeitmotifLocalizationsKeys.privateLabel:                               'privado',
     LeitmotifLocalizationsKeys.offlineLabel:                               'desconectado',
@@ -63,11 +63,11 @@ class LeitmotifLocalizationsES {
     LeitmotifLocalizationsKeys.deleteLabel:                               'Eliminar',
     LeitmotifLocalizationsKeys.deleteDescriptionBodyText:                   'Si eliminas este objeto, ya no se podrá usar.',
     LeitmotifLocalizationsKeys.deleteObjectTitle:                               'Eliminar objeto',
-    LeitmotifLocalizationsKeys.confirmDeleteTitle:                               'Confirmar la eliminación';
+    LeitmotifLocalizationsKeys.confirmDeleteTitle:                               'Confirmar la eliminación',
     LeitmotifLocalizationsKeys.deleteObjectPrompt:                                      '¿Está seguro de que desea eliminar este objeto?',
     LeitmotifLocalizationsKeys.composeLabel:                               'Constituir',
     LeitmotifLocalizationsKeys.createLabel:                               'para hacer',
-    LeitmotifLocalizationsKeys.aboutAppLabel:                               'Acerca de esta aplicación';
+    LeitmotifLocalizationsKeys.aboutAppLabel:                               'Acerca de esta aplicación',
     LeitmotifLocalizationsKeys.userExpericenceDesignLabel:                  'Diseño de experiencia de usuario',
     LeitmotifLocalizationsKeys.developmentLabel:                               'Desarrollo',
     LeitmotifLocalizationsKeys.photographyLabel:                               'fotografía',
