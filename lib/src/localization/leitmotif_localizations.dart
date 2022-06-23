@@ -1,6 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:leitmotif/leitmotif.dart';
 import 'languages/leitmotif_localizations_ko.dart';
+import 'languages/leitmotif_localizations_es.dart';
+import 'languages/leitmotif_localizations_fr.dart';
+import 'languages/leitmotif_localizations_ja.dart';
+import 'languages/leitmotif_localizations_pt.dart';
+import 'languages/leitmotif_localizations_ru.dart';
+import 'languages/leitmotif_localizations_tr.dart';
+import 'languages/leitmotif_localizations_vi.dart';
+import 'languages/leitmotif_localizations_zh.dart';
 
 /// A Leitmotif `localization` class enabling localized values on dialog and
 /// screen widgets.
@@ -37,6 +45,21 @@ class LeitmotifLocalizations {
     LeitmotifLocalizationsDE.languageCode: LeitmotifLocalizationsDE.values,
     // 'German' localization
     LeitmotifLocalizationsKO.languageCode: LeitmotifLocalizationsKO.values,
+    // 'English' localization
+    LeitmotifLocalizationsES.languageCode: LeitmotifLocalizationsES.values,
+    // 'German' localization
+    LeitmotifLocalizationsFR.languageCode: LeitmotifLocalizationsFR.values,
+    // 'German' localization
+    LeitmotifLocalizationsJA.languageCode: LeitmotifLocalizationsJA.values,
+    // 'English' localization
+    LeitmotifLocalizationsPT.languageCode: LeitmotifLocalizationsPT.values,
+    // 'German' localization
+    LeitmotifLocalizationsRU.languageCode: LeitmotifLocalizationsRU.values,
+    // 'German' localization
+    LeitmotifLocalizationsTR.languageCode: LeitmotifLocalizationsTR.values,// 'English' localization
+    LeitmotifLocalizationsVI.languageCode: LeitmotifLocalizationsVI.values,
+    // 'German' localization
+    LeitmotifLocalizationsZH.languageCode: LeitmotifLocalizationsZH.values,
   };
 
   /// Returns the currently implemented languages inside the localization map
@@ -54,6 +77,23 @@ class LeitmotifLocalizations {
     Locale(LeitmotifLocalizationsDE.languageCode),
     // German (no contry code)
     Locale(LeitmotifLocalizationsKO.languageCode),
+    // English locale (no contry code)
+    Locale(LeitmotifLocalizationsES.languageCode),
+    // German (no contry code)
+    Locale(LeitmotifLocalizationsFR.languageCode),
+    // German (no contry code)
+    Locale(LeitmotifLocalizationsJA.languageCode),
+    // English locale (no contry code)
+    Locale(LeitmotifLocalizationsPT.languageCode),
+    // German (no contry code)
+    Locale(LeitmotifLocalizationsRU.languageCode),
+    // German (no contry code)
+    Locale(LeitmotifLocalizationsTR.languageCode),
+    // English locale (no contry code)
+    Locale(LeitmotifLocalizationsVI.languageCode),
+    // German (no contry code)
+    Locale(LeitmotifLocalizationsZH.languageCode),
+    
   ];
 
   /// Returns the localized value based on the provided [localizationKey].
